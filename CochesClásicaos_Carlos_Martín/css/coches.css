@@ -1,0 +1,468 @@
+//Todo sobre FORD.
+.texto_ford {
+
+    color: rgb(4, 0, 255);
+    font-size: 10px;
+    text-align: justify;
+    line-height: 1;
+    margin: 10px;
+
+}
+
+.galeria_ford {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    flex-wrap: wrap;
+
+}
+
+.galeria_ford img {
+
+    width: 250px;
+    height: auto;
+
+}
+
+.logoford {
+
+    width: 125px;
+    height: auto;
+}
+
+.galeria_ford .A1 {
+
+    width: 275px;
+
+}
+
+.galeria_ford .gt_40 {
+
+    width: 350px;
+
+}
+
+.galeria_ford .gt_350 {
+
+    width: 350px;
+
+}
+
+.galeria_ford .gt_500 {
+
+    width: 350px;
+
+}
+
+.galeria_ford figure {
+    
+    color: black;
+    text-align: center;
+    margin: 0;
+
+}
+
+.galeria_ford figcaption {
+    
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+
+
+//TODO SOBRE HONDA Y ACURA.
+.texto_acura {
+
+    color: rgb(4, 0, 255);
+    font-size: 10px;
+    text-align: justify;
+    line-height: 1;
+    margin: 10px;
+
+}
+
+.galeria_acura {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    flex-wrap: wrap;
+
+}
+
+.galeria_acura img {
+
+    width: 250px;
+    height: auto;
+
+}
+
+.logoacura {
+
+    width: 125px;
+    height: auto;
+
+}
+
+.logohonda {
+
+    width: 125px;
+    height: auto;
+    
+}
+
+.galeria_acura .jefe {
+
+    width: 400px;
+
+}
+
+.galeria_acura .NSX {
+
+    width: 275px;
+
+}
+
+.galeria_acura .gt3 {
+
+    width: 350px;
+
+}
+
+.galeria_acura .rc142 {
+
+    width: 350px;
+
+}
+
+.galeria_acura .ra271 {
+
+    width: 350px;
+
+}
+
+.galeria_acura figure {
+    
+    color: black;
+    text-align: center;
+    margin: 0;
+
+}
+
+.galeria_acura figcaption {
+    
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+
+
+//TODO SOBRE LAMBORGHINI TRATTORI.
+.texto_lambo {
+
+    color: rgb(4, 0, 255);
+    font-size: 10px;
+    text-align: justify;
+    line-height: 1;
+    margin: 10px;
+
+}
+
+.galeria_lambo {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    flex-wrap: wrap;
+
+}
+
+.galeria_lambo img {
+
+    width: 300px;
+    height: auto;
+
+}
+
+.logolambo {
+
+    width: 150px;
+    height: auto;
+}
+
+.ferruccio {
+
+    width: 500px;
+    height: auto;
+
+}
+
+.cento{
+
+    width: 300px;
+    height: auto;
+
+}
+
+.galeria_lambo .carioca {
+
+    width: 375px;
+    height: auto;
+
+}
+
+.galeria_lambo .miura {
+
+    width: 350px;
+
+}
+
+.galeria_lambo .gtv350 {
+
+    width: 400px;
+
+}
+
+.galeria_lambo .gt350 {
+
+    width: 400px;
+
+}
+
+.galeria_lambo figure {
+    
+    color: black;
+    text-align: center;
+    margin: 0;
+
+}
+
+.galeria_lambo figcaption {
+    
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+
+
+//TODO SOBRE EBRO.
+.texto_ebro {
+
+    color: rgb(4, 0, 255);
+    font-size: 10px;
+    text-align: justify;
+    line-height: 1;
+    margin: 10px;
+
+}
+
+.galeria_ebro {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    flex-wrap: wrap;
+
+}
+
+.galeria_ebro img {
+
+    width: 350px;
+    height: auto;
+
+}
+
+.logoebro {
+
+    width: 100px;
+    height: auto;
+}
+
+.logomotoriberica {
+
+    width: 165.5px;
+    height: auto;
+
+}
+
+.galeri_ebro .jefeebro {
+
+    width: 100px;
+    height: auto;
+
+}
+
+.galeria_ebro .tractor{
+
+    width: 300px;
+    height: auto;
+
+}
+
+.galeria_ebro .camion {
+
+    width: 375px;
+    height: auto;
+
+}
+
+.galeria_ebro .suv {
+
+    width: 350px;
+    height: auto;
+
+}
+
+
+.galeria_ebro figure {
+    
+    color: black;
+    text-align: center;
+    margin: 0;
+
+}
+
+.galeria_ebro figcaption {
+    
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+
+
+//TODO SOBRE ALFA ROMEO.
+.texto_alfa {
+
+    color: rgb(4, 0, 255);
+    font-size: 10px;
+    text-align: justify;
+    line-height: 1;
+    margin: 10px;
+
+}
+
+.galeria_alfa {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    flex-wrap: wrap;
+
+}
+
+.logoalfa {
+
+    width: 100px;
+    height: auto;
+}
+
+.galeri_alfa .ugo {
+
+    width: 100px;
+    height: auto;
+
+}
+
+.galeria_alfa .romeo{
+
+    width: 275px;
+    height: auto;
+
+}
+
+.galeria_alfa .a_l_f_a {
+
+    width: 300px;
+    height: auto;
+
+}
+
+.galeria_alfa .stradale {
+
+    width: 300px;
+    height: auto;
+
+}
+
+.galeria_alfa .puertas {
+
+    width: 275px;
+    height: auto;
+
+}
+
+.galeria_alfa .carreras {
+
+    width: 272px;
+    height: auto;
+
+}
+
+.galeria_alfa figure {
+    
+    color: black;
+    text-align: center;
+    margin: 0;
+
+}
+
+.galeria_alfa figcaption {
+    
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+
+
+/* TODO: ADAPTACIÓN A MÓVILES */
+
+@media (max-width: 600px) {
+
+    .galeria_ford,
+    .galeria_acura,
+    .galeria_lambo,
+    .galeria_ebro,
+    .galeria_alfa {
+
+        gap: 30px;
+
+    }
+
+    .galeria_ford img,
+    .galeria_acura img,
+    .galeria_lambo img,
+    .galeria_ebro img,
+    .galeria_alfa img {
+
+        max-width: 100%;
+        height: auto;
+
+    }
+
+    .galeria_ford figcaption,
+    .galeria_acura figcaption,
+    .galeria_lambo figcaption,
+    .galeria_ebro figcaption,
+    .galeria_alfa figcaption {
+
+        font-size: 18px;
+
+    }
+
+}
